@@ -1,0 +1,17 @@
+   body{
+        color:blueviolet
+       }
+
+   header{
+        position: fixed;
+       font: small-caps
+       }
+
+    h1{
+        font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+    }
+    
+    .holder-type{
+        color: orange;
+    }
+
